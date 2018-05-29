@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MinerL:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MinerL_jar</output-path>
+    <root id="archive" name="MinerL.jar">
+      <element id="module-output" name="MinerL" />
+    </root>
+  </artifact>
+</component>
